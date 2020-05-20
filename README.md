@@ -1,4 +1,12 @@
 # coldhouse
 
-cold house is HTML and Bootstrap Desgin that show cases all the different types of product that shop has to offere and,
-The location of Branches that are present.
+A fully responsive website for a smoothie store.
+
+The Pages worked on by me:
+Home Page ( w/ a teammate)
+Pricing Page
+Products Pages
+About Page
+Tools Used:
+Code Editor Used: Brackets
+Languages & Libraries : HTML, CSS
